@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2442&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Hey+guys!+Welcome;I'm+Brendo+Damasceno;24+years+old,+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Hey+guys!+Welcome;I'm+Brendo+Damasceno;27+years+old,+Brazil)](https://git.io/typing-svg)
 
 <br>
 
@@ -22,7 +22,7 @@
   <div align="center">
     <a href="https://www.instagram.com/huehuelison/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brendosousa858@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brendo-sousa-0553a6228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brendo-damasceno-0553a6228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    </div>
 
